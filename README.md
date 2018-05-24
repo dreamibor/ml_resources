@@ -1,4 +1,4 @@
-# Awesome_ML_Resoueces
+# Awesome Machine Learning Resoueces
 A collection of awsome Machine Learming resources, blogs and courses.
 
 ###M achine Learning:
