@@ -17,4 +17,6 @@ https://web.stanford.edu/class/cs224s/syllabus.html
 CTC Decoder:  
 https://distill.pub/2017/ctc/
 
-### Natural Language Processing:
+### Natural Language Processing:  
+Language Model:  
+http://www.marekrei.com/teaching/mllm/  
