@@ -1,4 +1,4 @@
-# Awesome Machine Learning Resoueces
+# Awesome Machine Learning Resources
 A collection of awsome Machine Learming resources, blogs and courses.
 
 ### Machine Learning:
