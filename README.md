@@ -23,3 +23,7 @@ https://distill.pub/2017/ctc/
 ### Natural Language Processing:  
 Language Model:  
 http://www.marekrei.com/teaching/mllm/  
+
+### Mathematics:
+The Matrix Book:
+[Google Drive Download Link](https://drive.google.com/file/d/1MVdWudAUxbcc0bByyr79R9QpiLysnLk0/view?usp=sharing)
