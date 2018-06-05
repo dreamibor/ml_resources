@@ -1,16 +1,19 @@
-# Awesome Machine Learning Resources
-A collection of awsome Machine Learming resources, blogs and courses.
+# Awesome Machine Learning Resources  
+A collection of awsome Machine Learming resources, blogs and courses.  
 
-### Machine Learning:
-...
+### Machine Learning:  
+Getting Started with Machine Learning:
+[Google Drive Downlaod Link] (https://drive.google.com/file/d/1XcYbj0YJlVTHO1ZXyVqvaHbptrmiXic8/view?usp=sharing)  
 
-### Deep Learning:
+### Deep Learning:  
 Applied Deep Learning from National Taiwan University:  
-https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html
+https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html  
 
 ### Computer Vision:
+A Year of Computer Vision:
+[Google Drive Download Link](https://drive.google.com/file/d/11EHeXgOoSTMnP8A0M4qEmf3JCVDO_rdG/view?usp=sharing)  
 
-### Speech Recognition:
+### Speech Recognition:  
 Spoken Language Processing (CS224S) from Stanford University:  
 https://web.stanford.edu/class/cs224s/syllabus.html
 
