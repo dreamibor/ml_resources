@@ -3,7 +3,7 @@ A collection of awsome Machine Learming resources, blogs and courses.
 
 ### Machine Learning:  
 Getting Started with Machine Learning:
-[Google Drive Downlaod Link] (https://drive.google.com/file/d/1XcYbj0YJlVTHO1ZXyVqvaHbptrmiXic8/view?usp=sharing)  
+[Google Drive Downlaod Link](https://drive.google.com/file/d/1XcYbj0YJlVTHO1ZXyVqvaHbptrmiXic8/view?usp=sharing)  
 
 ### Deep Learning:  
 Applied Deep Learning from National Taiwan University:  
