@@ -10,6 +10,9 @@ Applied Deep Learning from National Taiwan University:
 https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html   
 
 ### Computer Vision:
+Convolutional Neural Networks for Visual Recognition:  
+http://cs231n.stanford.edu/  
+
 A Year of Computer Vision:  
 [Google Drive Download Link](https://drive.google.com/file/d/11EHeXgOoSTMnP8A0M4qEmf3JCVDO_rdG/view?usp=sharing)  
 
