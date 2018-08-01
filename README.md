@@ -5,6 +5,9 @@ A collection of awsome Machine Learming resources, blogs and courses.
 Getting Started with Machine Learning:  
 [Google Drive Downlaod Link](https://drive.google.com/file/d/1XcYbj0YJlVTHO1ZXyVqvaHbptrmiXic8/view?usp=sharing)  
 
+Machine Learning - Andrew Ng  
+https://www.coursera.org/learn/machine-learning  
+
 ### Deep Learning:  
 Applied Deep Learning from National Taiwan University:   
 https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html   
