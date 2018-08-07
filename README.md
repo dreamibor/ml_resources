@@ -31,7 +31,8 @@ Language Model:
 http://www.marekrei.com/teaching/mllm/  
 
 ### Mathematics:
-[Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)
+Convex Optimization:
+https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about
 
 The Matrix Book:
 [Google Drive Download Link](https://drive.google.com/file/d/1MVdWudAUxbcc0bByyr79R9QpiLysnLk0/view?usp=sharing)
