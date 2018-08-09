@@ -31,6 +31,10 @@ Language Model:
 http://www.marekrei.com/teaching/mllm/  
 
 ### Mathematics:
+
+Highlights of Calculus:
+https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/index.htm
+
 Convex Optimization:
 https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about
 
