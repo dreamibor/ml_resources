@@ -1,12 +1,15 @@
 # Awesome Machine Learning Resources  
 A collection of awsome Machine Learming resources, blogs and courses.  
 
-### Machine Learning:  
+### Statistical Learning:  
 Getting Started with Machine Learning:  
 [Google Drive Downlaod Link](https://drive.google.com/file/d/1XcYbj0YJlVTHO1ZXyVqvaHbptrmiXic8/view?usp=sharing)  
 
 Machine Learning - Andrew Ng  
 https://www.coursera.org/learn/machine-learning  
+
+Foundations of Machine Learning (Bloomberg)
+https://bloomberg.github.io/foml/#about
 
 ### Deep Learning:  
 Applied Deep Learning from National Taiwan University:   
