@@ -8,8 +8,8 @@ Getting Started with Machine Learning:
 Machine Learning - Andrew Ng  
 https://www.coursera.org/learn/machine-learning  
 
-Foundations of Machine Learning (Bloomberg)
-https://bloomberg.github.io/foml/#about
+Foundations of Machine Learning (Bloomberg)  
+https://bloomberg.github.io/foml/#about  
 
 ### Deep Learning:  
 Applied Deep Learning from National Taiwan University:   
