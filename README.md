@@ -5,10 +5,10 @@ A collection of awsome Machine Learming resources, blogs and courses.
 Getting Started with Machine Learning:  
 [Google Drive Downlaod Link](https://drive.google.com/file/d/1XcYbj0YJlVTHO1ZXyVqvaHbptrmiXic8/view?usp=sharing)  
 
-Machine Learning - Andrew Ng  
+Machine Learning - Andrew Ng:  
 https://www.coursera.org/learn/machine-learning  
 
-Foundations of Machine Learning (Bloomberg)  
+Foundations of Machine Learning (Bloomberg):  
 https://bloomberg.github.io/foml/#about  
 
 Introductory Applied Machine Learning (Edinburgh University):  
