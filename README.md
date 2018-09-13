@@ -30,6 +30,9 @@ CTC Decoder Explanation:
 https://distill.pub/2017/ctc/  
 
 ### Natural Language Processing:  
+Natural Langauge Processing with Deep Learning:  
+http://web.stanford.edu/class/cs224n/  
+
 Language Model:  
 http://www.marekrei.com/teaching/mllm/  
 
