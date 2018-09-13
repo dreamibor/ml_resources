@@ -11,6 +11,12 @@ https://www.coursera.org/learn/machine-learning
 Foundations of Machine Learning (Bloomberg)  
 https://bloomberg.github.io/foml/#about  
 
+Introductory Applied Machine Learning (Edinburgh University):  
+Videos:  
+https://www.youtube.com/user/victorlavrenko/playlists?flow=grid&shelf_id=10&view=50  
+Courseworks:  
+https://github.com/JamesOwers/iaml2017  
+
 ### Deep Learning:  
 Applied Deep Learning from National Taiwan University:   
 https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html   
