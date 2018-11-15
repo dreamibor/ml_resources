@@ -26,6 +26,9 @@ http://cs231n.stanford.edu/
 A Year of Computer Vision:  
 [Google Drive Download Link](https://drive.google.com/file/d/11EHeXgOoSTMnP8A0M4qEmf3JCVDO_rdG/view?usp=sharing)  
 
+Computer Vision Related Papers:
+https://github.com/zziz/pwc
+
 ### Speech Recognition:  
 Spoken Language Processing (CS224S) from Stanford University:   
 https://web.stanford.edu/class/cs224s/syllabus.html  
