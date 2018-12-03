@@ -6,7 +6,8 @@ Getting Started with Machine Learning:
 [Google Drive Downlaod Link](https://drive.google.com/file/d/1XcYbj0YJlVTHO1ZXyVqvaHbptrmiXic8/view?usp=sharing)  
 
 Machine Learning - Andrew Ng:  
-https://www.coursera.org/learn/machine-learning  
+https://www.coursera.org/learn/machine-learning 
+Notes: https://yoyoyohamapi.gitbooks.io/mit-ml/content/  
 
 Foundations of Machine Learning (Bloomberg):  
 https://bloomberg.github.io/foml/#about  
