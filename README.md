@@ -54,3 +54,9 @@ https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about
 
 The Matrix Book:
 [Google Drive Download Link](https://drive.google.com/file/d/1MVdWudAUxbcc0bByyr79R9QpiLysnLk0/view?usp=sharing)
+
+### Computer Science  
+Great Ideas in Theoretical Computer Science (CMU):  
+http://www.cs.cmu.edu/~15251/  
+Notes:  
+http://www.cs.cmu.edu/~aada/courses/15251s18/www/notes/notes_all_but_sols.pdf  
