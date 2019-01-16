@@ -60,3 +60,7 @@ Great Ideas in Theoretical Computer Science (CMU):
 http://www.cs.cmu.edu/~15251/  
 Notes:  
 http://www.cs.cmu.edu/~aada/courses/15251s18/www/notes/notes_all_but_sols.pdf  
+
+
+### Algorithms  
+Understanding xgboost (Chinese)： https://blog.csdn.net/v_JULY_v/article/details/81410574  
