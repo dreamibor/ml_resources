@@ -64,3 +64,8 @@ http://www.cs.cmu.edu/~aada/courses/15251s18/www/notes/notes_all_but_sols.pdf
 
 ### Algorithms  
 Understanding xgboost (Chinese)： https://blog.csdn.net/v_JULY_v/article/details/81410574  
+
+### Neural Networks  
+How the backpropagation algorithm works: http://neuralnetworksanddeeplearning.com/chap2.html    
+A Step by Step Backpropagation Example: https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/    
+The Backpropagation Algorithm: https://page.mi.fu-berlin.de/rojas/neural/chapter/K7.pdf    
