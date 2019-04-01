@@ -69,3 +69,4 @@ Understanding xgboost (Chinese)： https://blog.csdn.net/v_JULY_v/article/detail
 How the backpropagation algorithm works: http://neuralnetworksanddeeplearning.com/chap2.html    
 A Step by Step Backpropagation Example: https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/    
 The Backpropagation Algorithm: https://page.mi.fu-berlin.de/rojas/neural/chapter/K7.pdf    
+TensorFlow Neural Network Playground: https://playground.tensorflow.org/    
