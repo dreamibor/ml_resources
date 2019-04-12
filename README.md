@@ -72,4 +72,4 @@ The Backpropagation Algorithm: https://page.mi.fu-berlin.de/rojas/neural/chapter
 TensorFlow Neural Network Playground: https://playground.tensorflow.org/    
 
 ### CheatSheet    
-https://ml-cheatsheet.readthedocs.io/en/latest/index.html    
+Machine Learning Cheatsheet: https://ml-cheatsheet.readthedocs.io/en/latest/index.html    
