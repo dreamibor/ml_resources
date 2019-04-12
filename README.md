@@ -1,6 +1,22 @@
 # Awesome Machine Learning Resources  
 A collection of awsome Machine Learming resources, blogs and courses.  
 
+### Mathematics:
+Highlights of Calculus:
+https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/index.htm
+
+Convex Optimization:
+https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about
+
+The Matrix Book:
+[Google Drive Download Link](https://drive.google.com/file/d/1MVdWudAUxbcc0bByyr79R9QpiLysnLk0/view?usp=sharing)
+
+### Computer Science  
+Great Ideas in Theoretical Computer Science (CMU):  
+http://www.cs.cmu.edu/~15251/  
+Notes:  
+http://www.cs.cmu.edu/~aada/courses/15251s18/www/notes/notes_all_but_sols.pdf  
+
 ### Statistical Learning:  
 Getting Started with Machine Learning:  
 [Google Drive Downlaod Link](https://drive.google.com/file/d/1XcYbj0YJlVTHO1ZXyVqvaHbptrmiXic8/view?usp=sharing)  
@@ -15,6 +31,21 @@ https://bloomberg.github.io/foml/#about
 Introductory Applied Machine Learning (Edinburgh University):  
 Videos: https://www.youtube.com/user/victorlavrenko/playlists?flow=grid&shelf_id=10&view=50  
 Courseworks: https://github.com/JamesOwers/iaml2017  
+
+### Algorithms  
+Understanding xgboost (Chinese)： https://blog.csdn.net/v_JULY_v/article/details/81410574  
+
+### Neural Networks  
+How the backpropagation algorithm works: http://neuralnetworksanddeeplearning.com/chap2.html   
+
+A Step by Step Backpropagation Example: https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/    
+
+The Backpropagation Algorithm: https://page.mi.fu-berlin.de/rojas/neural/chapter/K7.pdf    
+
+TensorFlow Neural Network Playground: https://playground.tensorflow.org/    
+
+### Cheatsheet    
+Machine Learning Cheatsheet: https://ml-cheatsheet.readthedocs.io/en/latest/index.html    
 
 ### Deep Learning:  
 Applied Deep Learning from National Taiwan University:   
@@ -43,33 +74,3 @@ http://web.stanford.edu/class/cs224n/
 
 Language Model:  
 http://www.marekrei.com/teaching/mllm/  
-
-### Mathematics:
-
-Highlights of Calculus:
-https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/index.htm
-
-Convex Optimization:
-https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about
-
-The Matrix Book:
-[Google Drive Download Link](https://drive.google.com/file/d/1MVdWudAUxbcc0bByyr79R9QpiLysnLk0/view?usp=sharing)
-
-### Computer Science  
-Great Ideas in Theoretical Computer Science (CMU):  
-http://www.cs.cmu.edu/~15251/  
-Notes:  
-http://www.cs.cmu.edu/~aada/courses/15251s18/www/notes/notes_all_but_sols.pdf  
-
-
-### Algorithms  
-Understanding xgboost (Chinese)： https://blog.csdn.net/v_JULY_v/article/details/81410574  
-
-### Neural Networks  
-How the backpropagation algorithm works: http://neuralnetworksanddeeplearning.com/chap2.html    
-A Step by Step Backpropagation Example: https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/    
-The Backpropagation Algorithm: https://page.mi.fu-berlin.de/rojas/neural/chapter/K7.pdf    
-TensorFlow Neural Network Playground: https://playground.tensorflow.org/    
-
-### Cheatsheet    
-Machine Learning Cheatsheet: https://ml-cheatsheet.readthedocs.io/en/latest/index.html    
