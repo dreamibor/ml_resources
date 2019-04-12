@@ -71,5 +71,5 @@ A Step by Step Backpropagation Example: https://mattmazur.com/2015/03/17/a-step-
 The Backpropagation Algorithm: https://page.mi.fu-berlin.de/rojas/neural/chapter/K7.pdf    
 TensorFlow Neural Network Playground: https://playground.tensorflow.org/    
 
-### CheatSheet    
+### Cheatsheet    
 Machine Learning Cheatsheet: https://ml-cheatsheet.readthedocs.io/en/latest/index.html    
