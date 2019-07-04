@@ -81,6 +81,6 @@ Syllabus: http://web.stanford.edu/class/cs224u/
 Videos: https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20    
 
 ### Reinforcement Learning:    
-Syllabus: http://web.stanford.edu/class/cs234/index.html
-Videos: https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u
+Syllabus: http://web.stanford.edu/class/cs234/index.html    
+Videos: https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u    
 
