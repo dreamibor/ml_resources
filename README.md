@@ -24,8 +24,7 @@ Getting Started with Machine Learning:
 Machine Learning - Andrew Ng: https://www.coursera.org/learn/machine-learning     
 Notes: https://yoyoyohamapi.gitbooks.io/mit-ml/content/  
 
-Foundations of Machine Learning (Bloomberg):  
-https://bloomberg.github.io/foml/#about  
+Foundations of Machine Learning (Bloomberg): https://bloomberg.github.io/foml/#about  
 
 Introductory Applied Machine Learning (Edinburgh University):  
 Videos: https://www.youtube.com/user/victorlavrenko/playlists?flow=grid&shelf_id=10&view=50   
@@ -52,29 +51,24 @@ The Backpropagation Algorithm: https://page.mi.fu-berlin.de/rojas/neural/chapter
 Machine Learning Cheatsheet: https://ml-cheatsheet.readthedocs.io/en/latest/index.html    
 
 ### Deep Learning:  
-Applied Deep Learning from National Taiwan University:   
-https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html   
+Applied Deep Learning from National Taiwan University: https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html   
 
-CS230 Deeo Learning (Stanford Autumn 2018):    
-http://cs230.stanford.edu/    
+CS230 Deeo Learning (Stanford Autumn 2018): http://cs230.stanford.edu/    
 Videos: https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb    
 
 ### Computer Vision:
 Convolutional Neural Networks for Visual Recognition: http://cs231n.stanford.edu/  
 
-A Year of Computer Vision:  
-[Google Drive Download Link](https://drive.google.com/file/d/11EHeXgOoSTMnP8A0M4qEmf3JCVDO_rdG/view?usp=sharing)  
+A Year of Computer Vision: [Google Drive Download Link](https://drive.google.com/file/d/11EHeXgOoSTMnP8A0M4qEmf3JCVDO_rdG/view?usp=sharing)  
 
 Computer Vision Related Papers: https://github.com/zziz/pwc
 
 Object Detection: https://github.com/amusi/awesome-object-detection    
 
 ### Speech Recognition:  
-Spoken Language Processing (CS224S) from Stanford University:   
-https://web.stanford.edu/class/cs224s/syllabus.html  
+Spoken Language Processing (CS224S) from Stanford University: https://web.stanford.edu/class/cs224s/syllabus.html  
 
-CTC Decoder Explanation:  
-https://distill.pub/2017/ctc/  
+CTC Decoder Explanation: https://distill.pub/2017/ctc/  
 
 ### Natural Language Processing:  
 Natural Langauge Processing with Deep Learning:  
