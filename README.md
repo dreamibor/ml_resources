@@ -18,8 +18,7 @@ Great Ideas in Theoretical Computer Science (CMU): http://www.cs.cmu.edu/~15251/
 Notes: http://www.cs.cmu.edu/~aada/courses/15251s18/www/notes/notes_all_but_sols.pdf  
 
 ### Statistical Learning:  
-Getting Started with Machine Learning:  
-[Google Drive Downlaod Link](https://drive.google.com/file/d/1XcYbj0YJlVTHO1ZXyVqvaHbptrmiXic8/view?usp=sharing)  
+Getting Started with Machine Learning: [Google Drive Downlaod Link](https://drive.google.com/file/d/1XcYbj0YJlVTHO1ZXyVqvaHbptrmiXic8/view?usp=sharing)  
 
 Machine Learning - Andrew Ng: https://www.coursera.org/learn/machine-learning     
 Notes: https://yoyoyohamapi.gitbooks.io/mit-ml/content/  
