@@ -101,6 +101,6 @@ State-of-the-art papers in different fields: https://paperswithcode.com/sota
 
 ### Books:
 Deep Learning: https://www.deeplearningbook.org/    
-Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 2nd Edition    
-《机器学习》- 周志华
+Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)     
+《机器学习》- 周志华    
 
