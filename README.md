@@ -28,7 +28,7 @@ Foundations of Machine Learning (Bloomberg): https://bloomberg.github.io/foml/#a
 Introductory Applied Machine Learning (Edinburgh University):  
 Videos: https://www.youtube.com/user/victorlavrenko/playlists?flow=grid&shelf_id=10&view=50   
 Uni Videos: https://media.ed.ac.uk/channel/Introductory%2BApplied%2BMachine%2BLearning/52615121    
-Courseworks: https://github.com/JamesOwers/iaml2017  
+Courseworks: [IAML 2017](https://github.com/JamesOwers/iaml2017)  and [IAML2019](https://github.com/traikodinev/IAML2019) and [IAML 2019 Labs](https://github.com/amosstorkey/iaml-labs)    
 
 Machine Learning and Pattern Recognition (Edinburgh University): https://www.inf.ed.ac.uk/teaching/courses/mlpr/2019/
 
