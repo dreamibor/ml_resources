@@ -72,9 +72,12 @@ CTC Decoder Explanation: https://distill.pub/2017/ctc/
 ### Natural Language Processing:  
 Natural Langauge Processing with Deep Learning:  
 http://web.stanford.edu/class/cs224n/      
-Videos: https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z    
+Videos: https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z   
+
+Book: Speech and Langauge Processing: http://web.stanford.edu/~jurafsky/slp3/    
 
 Language Model: http://www.marekrei.com/teaching/mllm/  
+
 
 ### Natural Language Understanding    
 CS224U: Natural Language Understanding:    
