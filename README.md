@@ -70,9 +70,10 @@ Spoken Language Processing (CS224S) from Stanford University: https://web.stanfo
 CTC Decoder Explanation: https://distill.pub/2017/ctc/  
 
 ### Natural Language Processing:  
-Natural Langauge Processing with Deep Learning:  
-http://web.stanford.edu/class/cs224n/      
+Natural Langauge Processing with Deep Learning: http://web.stanford.edu/class/cs224n/      
 Videos: https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z   
+
+Advanced Natural Language Processing (The University of Edinburgh): https://www.inf.ed.ac.uk/teaching/courses/anlp/lectures/index.html    
 
 Book: Speech and Langauge Processing: http://web.stanford.edu/~jurafsky/slp3/    
 
