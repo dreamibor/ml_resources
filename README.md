@@ -77,6 +77,7 @@ Videos: https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 Book: Speech and Langauge Processing: http://web.stanford.edu/~jurafsky/slp3/    
 
 Language Model: http://www.marekrei.com/teaching/mllm/  
+Pre-trained Languge Model Papers: https://github.com/thunlp/PLMpapers    
 
 NLP Interview Preparation: https://github.com/songyingxin/NLPer-Interview    
 
