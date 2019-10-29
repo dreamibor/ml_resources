@@ -78,6 +78,7 @@ Book: Speech and Langauge Processing: http://web.stanford.edu/~jurafsky/slp3/
 
 Language Model: http://www.marekrei.com/teaching/mllm/  
 
+NLP Interview Preparation: https://github.com/songyingxin/NLPer-Interview    
 
 ### Natural Language Understanding    
 CS224U: Natural Language Understanding:    
