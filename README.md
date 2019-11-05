@@ -32,6 +32,8 @@ Courseworks: [IAML 2017](https://github.com/JamesOwers/iaml2017)  and [IAML2019]
 
 Machine Learning and Pattern Recognition (Edinburgh University): https://www.inf.ed.ac.uk/teaching/courses/mlpr/2019/
 
+Google Machine Learning Crash Course: https://developers.google.com/machine-learning/crash-course    
+
 ### Algorithms  
 Understanding xgboost (Chinese)： https://blog.csdn.net/v_JULY_v/article/details/81410574  
 
