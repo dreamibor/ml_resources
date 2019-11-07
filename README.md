@@ -96,6 +96,9 @@ Videos: https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCT
 
 Dopamine RL framework: https://github.com/google/dopamine    
 
+### SLAM    
+https://github.com/gaoxiang12/slambook-en    
+
 ### Network Optimisation    
 Auto Keras: https://autokeras.com/    
 PocketFlow: https://github.com/Tencent/PocketFlow    
