@@ -2,6 +2,8 @@
 A collection of awsome Machine Learming resources such asnotes, blogs and online courses.  
 
 ### Mathematics:
+Mathematics for Machine Learning: https://mml-book.github.io/    
+
 Highlights of Calculus:
 https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/index.htm
 
