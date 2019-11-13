@@ -19,6 +19,10 @@ AI算法工程师手册 (Chinese)：http://www.huaxiaozhuan.com/
 Great Ideas in Theoretical Computer Science (CMU): http://www.cs.cmu.edu/~15251/  
 Notes: http://www.cs.cmu.edu/~aada/courses/15251s18/www/notes/notes_all_but_sols.pdf  
 
+### Signal Processing
+Think DSP: https://greenteapress.com/wp/think-dsp/    
+Signal Processing 101 (Videos): https://www.youtube.com/playlist?list=PLJ-OcUCIty7evBmHvYRv66RcuziszpSFB    
+
 ### Statistical Learning:  
 Getting Started with Machine Learning: [Google Drive Downlaod Link](https://drive.google.com/file/d/1XcYbj0YJlVTHO1ZXyVqvaHbptrmiXic8/view?usp=sharing)  
 
