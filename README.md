@@ -17,7 +17,7 @@ The Matrix Book:
 
 AI算法工程师手册 (Chinese)：http://www.huaxiaozhuan.com/    
 
-AI based Calculus Leanring APP: https://www.pearson.com/en-ca/learner/products-and-services/learning-and-engagement-tools/aida.html    
+Aida, Calculus Leanring APP: https://www.pearson.com/en-ca/learner/products-and-services/learning-and-engagement-tools/aida.html    
 
 ### Computer Science  
 Great Ideas in Theoretical Computer Science (CMU): http://www.cs.cmu.edu/~15251/  
