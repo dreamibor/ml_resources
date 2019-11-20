@@ -117,6 +117,10 @@ PocketFlow: https://github.com/Tencent/PocketFlow
 TensorFlow without a PhD: https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd    
 Keras Tutorial: https://jhui.github.io/2018/02/11/Keras-tutorial/
 
+### Tools:
+Python plot library ***pyecharts***: https://github.com/pyecharts/pyecharts    
+Cute Python plot library ***cutecharts***: https://github.com/chenjiandongx/cutecharts    
+
 ### Papers
 State-of-the-art papers in different fields: https://paperswithcode.com/sota    
 
