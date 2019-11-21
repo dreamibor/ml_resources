@@ -32,91 +32,98 @@ A collection of awsome Machine Learming resources such as online courses, books 
 | [Introductory Applied Machine Learning (IAML)](https://media.ed.ac.uk/channel/Introductory%2BApplied%2BMachine%2BLearning/52615121)| Course | Edinburgh University | [YouTube Videos](https://www.youtube.com/user/victorlavrenko/playlists?flow=grid&shelf_id=10&view=50), Courseworks: [2017](https://github.com/JamesOwers/iaml2017), [2019]((https://github.com/traikodinev/IAML2019) Labs: [2019](https://github.com/amosstorkey/iaml-labs) |
 | [Machine Learning and Pattern Recognition (MLPR)](https://www.inf.ed.ac.uk/teaching/courses/mlpr/2019/) | Course | Edinburgh University | - |
 | [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) | Course | Google | - |
+| 《机器学习》| Book | 周志华 | - | 
+
+### Neural Networks 
+| Name | Category | Orgnization | Comment |
+| :--: | :------: | :---------: | :-----: |
+AI Book: https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/    
+TensorFlow Neural Network Playground: https://playground.tensorflow.org/    
+How the backpropagation algorithm works: http://neuralnetworksanddeeplearning.com/chap2.html   
+A Step by Step Backpropagation Example: https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/    
+The Backpropagation Algorithm: https://page.mi.fu-berlin.de/rojas/neural/chapter/K7.pdf    
+
+### Deep Learning:  
+| Name | Category | Orgnization | Comment |
+| :--: | :------: | :---------: | :-----: |
+| [Deep Learning](https://www.deeplearningbook.org/) | Book | - | - | 
+| [Applied Deep Learning](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html) | Course | National Taiwan University | - |
+| [CS230 Deeo Learning](http://cs230.stanford.edu/) | Course | Stanford | [Autumn 2018 Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) |
+
+### Computer Vision:
+| Name | Category | Orgnization | Comment |
+| :--: | :------: | :---------: | :-----: |
+| [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) | Course | Stanford | - 
+| [A Year of Computer Vision](https://drive.google.com/file/d/11EHeXgOoSTMnP8A0M4qEmf3JCVDO_rdG/view?usp=sharing) | Book | - | - |
+| [Computer Vision Related Papers](https://github.com/zziz/pwc) | Collection | - | GitHub repository |
+| [Object Detection](https://github.com/amusi/awesome-object-detection ) | Collection | - | GitHub repository |
+
+### Speech Recognition:  
+| Name | Category | Orgnization | Comment |
+| :--: | :------: | :---------: | :-----: |
+| [Spoken Language Processing(CS224S)](https://web.stanford.edu/class/cs224s/syllabus.html) | Course | Stanford University | - |
+| [CTC Decoder Explanation](https://distill.pub/2017/ctc/) | Article | - | - |  
+
+### Natural Language Processing:  
+| Name | Category | Orgnization | Comment |
+| :--: | :------: | :---------: | :-----: |
+| [Natural Langauge Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) | Course | Stanford University | [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) |
+| [Advanced Natural Language Processing](https://www.inf.ed.ac.uk/teaching/courses/anlp/lectures/index.html) | Course | Edinburgh University] | - |
+| [Speech and Langauge Processing](http://web.stanford.edu/~jurafsky/slp3/) | Textbook | - | - |   
+| [Language Model](http://www.marekrei.com/teaching/mllm/) | Article | - | - |
+| [Pre-trained Languge Model Papers](https://github.com/thunlp/PLMpapers) | Collection | - | GitHub repository |
+| [NLP Interview Preparation](https://github.com/songyingxin/NLPer-Interview) | Collection | - | GitHub repository |
+
+### Natural Language Understanding   
+| Name | Category | Orgnization | Comment |
+| :--: | :------: | :---------: | :-----: |
+| [Natural Language Understanding (CS224U](http://web.stanford.edu/class/cs224u/) | Course | Stanford University | [YouTube Videos](https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20) |
+
+### Reinforcement Learning:   
+| Name | Category | Orgnization | Comment |
+| :--: | :------: | :---------: | :-----: |
+| [Reinforcement Learning (CS234)](http://web.stanford.edu/class/cs234/index.html) | Course | Stanford University | [YouTube Videos](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+| [Dopamine](https://github.com/google/dopamine) | Framework | Google | RL framework based on Keras |
+
+### SLAM    
+| Name | Category | Orgnization | Comment |
+| :--: | :------: | :---------: | :-----: |
+| [SLAM](https://github.com/gaoxiang12/slambook-en) | Book | - | [Chinese Version](https://github.com/gaoxiang12/slambook2) |
+
+### Network Optimisation   
+| Name | Category | Orgnization | Comment |
+| :--: | :------: | :---------: | :-----: |
+| [Auto Keras](https://autokeras.com/) | Framework | - | AutoML |  
+| [PocketFlow](https://github.com/Tencent/PocketFlow) | Framework | Tencent | Quantization, clustering, etc. | 
 
 ### Algorithms  
 | Name | Category | Orgnization | Comment |
 | :--: | :------: | :---------: | :-----: |
 | [Understanding xgboost](https://blog.csdn.net/v_JULY_v/article/details/81410574) | Article | - | Chinese, 中文 |
 
-### Neural Networks  
-AI Book: https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/    
-
-TensorFlow Neural Network Playground: https://playground.tensorflow.org/    
-
-How the backpropagation algorithm works: http://neuralnetworksanddeeplearning.com/chap2.html   
-
-A Step by Step Backpropagation Example: https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/    
-
-The Backpropagation Algorithm: https://page.mi.fu-berlin.de/rojas/neural/chapter/K7.pdf    
-
-### Cheatsheet    
-Machine Learning Cheatsheet: https://ml-cheatsheet.readthedocs.io/en/latest/index.html    
-
-### Deep Learning:  
-Applied Deep Learning from National Taiwan University: https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html   
-
-CS230 Deeo Learning (Stanford Autumn 2018): http://cs230.stanford.edu/    
-Videos: https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb    
-
-### Computer Vision:
-Convolutional Neural Networks for Visual Recognition: http://cs231n.stanford.edu/  
-
-A Year of Computer Vision: [Google Drive Download Link](https://drive.google.com/file/d/11EHeXgOoSTMnP8A0M4qEmf3JCVDO_rdG/view?usp=sharing)  
-
-Computer Vision Related Papers: https://github.com/zziz/pwc
-
-Object Detection: https://github.com/amusi/awesome-object-detection    
-
-### Speech Recognition:  
-Spoken Language Processing (CS224S) from Stanford University: https://web.stanford.edu/class/cs224s/syllabus.html  
-
-CTC Decoder Explanation: https://distill.pub/2017/ctc/  
-
-### Natural Language Processing:  
-Natural Langauge Processing with Deep Learning: http://web.stanford.edu/class/cs224n/      
-Videos: https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z   
-
-Advanced Natural Language Processing (The University of Edinburgh): https://www.inf.ed.ac.uk/teaching/courses/anlp/lectures/index.html    
-
-Book: Speech and Langauge Processing: http://web.stanford.edu/~jurafsky/slp3/    
-
-Language Model: http://www.marekrei.com/teaching/mllm/  
-Pre-trained Languge Model Papers: https://github.com/thunlp/PLMpapers    
-
-NLP Interview Preparation: https://github.com/songyingxin/NLPer-Interview    
-
-### Natural Language Understanding    
-CS224U: Natural Language Understanding:    
-Syllabus: http://web.stanford.edu/class/cs224u/    
-Videos: https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20    
-
-### Reinforcement Learning:    
-CS234: Reinforcement Learning
-Syllabus: http://web.stanford.edu/class/cs234/index.html    
-Videos: https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u    
-
-Dopamine RL framework: https://github.com/google/dopamine    
-
-### SLAM    
-https://github.com/gaoxiang12/slambook-en    
-
-### Network Optimisation    
-Auto Keras: https://autokeras.com/    
-PocketFlow: https://github.com/Tencent/PocketFlow    
-
 ### Frameworks:    
+| Name | Category | Orgnization | Comment |
+| :--: | :------: | :---------: | :-----: |
 TensorFlow without a PhD: https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd    
 Keras Tutorial: https://jhui.github.io/2018/02/11/Keras-tutorial/
 
 ### Tools:
-Python plot library ***pyecharts***: https://github.com/pyecharts/pyecharts    
-Cute Python plot library ***cutecharts***: https://github.com/chenjiandongx/cutecharts    
+| Name | Category | Orgnization | Comment |
+| :--: | :------: | :---------: | :-----: |
+| [pyecharts](https://github.com/pyecharts/pyecharts) | Python library | - | Python plot library |
+| [cutecharts](https://github.com/chenjiandongx/cutecharts) | Python library | - | Cute Python plot library |
 
-### Papers
-State-of-the-art papers in different fields: https://paperswithcode.com/sota    
+### Cheatsheet    
+| Name | Category | Orgnization | Comment |
+| :--: | :------: | :---------: | :-----: |
+| [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html) | Cheatsheet | - | - |   
 
-### Books:
-Deep Learning: https://www.deeplearningbook.org/    
-Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)     
-《机器学习》- 周志华    
+### Paper Collection
+| Name | Category | Orgnization | Comment |
+| :--: | :------: | :---------: | :-----: |
+| [SoTA papers in different fields](https://paperswithcode.com/sota) | Collection | - | - |
 
+### General Books:
+| Name | Category | Orgnization | Comment |
+| :--: | :------: | :---------: | :-----: |
+| Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition) | Book | - | - |
