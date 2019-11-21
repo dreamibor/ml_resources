@@ -37,11 +37,11 @@ A collection of awsome Machine Learming resources such as online courses, books 
 ### Neural Networks 
 | Name | Category | Orgnization | Comment |
 | :--: | :------: | :---------: | :-----: |
-AI Book: https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/    
-TensorFlow Neural Network Playground: https://playground.tensorflow.org/    
-How the backpropagation algorithm works: http://neuralnetworksanddeeplearning.com/chap2.html   
-A Step by Step Backpropagation Example: https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/    
-The Backpropagation Algorithm: https://page.mi.fu-berlin.de/rojas/neural/chapter/K7.pdf    
+| [TensorFlow Neural Network Playground](https://playground.tensorflow.org/) | Framework | - | - |
+| [AI Book](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/) | Book | - | - |
+| [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) | Book | - | - |
+| [The Backpropagation Algorithm](https://page.mi.fu-berlin.de/rojas/neural/chapter/K7.pdf) | Article | - | - |
+| [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/) | Article | - | - |
 
 ### Deep Learning:  
 | Name | Category | Orgnization | Comment |
@@ -104,8 +104,8 @@ The Backpropagation Algorithm: https://page.mi.fu-berlin.de/rojas/neural/chapter
 ### Frameworks:    
 | Name | Category | Orgnization | Comment |
 | :--: | :------: | :---------: | :-----: |
-TensorFlow without a PhD: https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd    
-Keras Tutorial: https://jhui.github.io/2018/02/11/Keras-tutorial/
+| [TensorFlow without a PhD](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd) | Article | Google | Introduction to ML and TensorFlow |
+| [Keras Tutorial](https://jhui.github.io/2018/02/11/Keras-tutorial/) | Article | - | - |
 
 ### Tools:
 | Name | Category | Orgnization | Comment |
