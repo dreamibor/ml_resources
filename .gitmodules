@@ -1,0 +1,3 @@
+[submodule "Machine-Learning"]
+	path = Machine-Learning
+	url = https://github.com/JustFollowUs/Machine-Learning
