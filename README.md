@@ -9,7 +9,6 @@ A collection of awsome Machine Learming resources such as online courses, books 
 | [Highlights of Calculus](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/index.htm) | Course | MIT | Only videos |
 | [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about) | Course | Stanford | - |
 | [The Matrix Book](https://drive.google.com/file/d/1MVdWudAUxbcc0bByyr79R9QpiLysnLk0/view?usp=sharing) | Book | - | Linear Algebra |
-| [AI算法工程师手册](http://www.huaxiaozhuan.com/ ) | Book | - | Chinese 中文 |
 | [Aida](https://www.pearson.com/en-ca/learner/products-and-services/learning-and-engagement-tools/aida.html) | App | Pearson| Calculus leanring | 
 
 ### Computer Science  
@@ -126,4 +125,5 @@ A collection of awsome Machine Learming resources such as online courses, books 
 | Name | Category | Organization | Comment |
 | :--: | :------: | :---------: | :-----: |
 | Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition) | Book | - | - |
+| [AI算法工程师手册](http://www.huaxiaozhuan.com/ ) | Book | - | Chinese, 中文 |
 | 《机器学习》| Book | 周志华 | Chinese, 中文， “西瓜书” | 
