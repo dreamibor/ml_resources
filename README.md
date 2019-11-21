@@ -5,7 +5,7 @@ A collection of awsome Machine Learming resources such as online courses, books 
 | Name | Category | Orgnization | Comment |
 | :--: | :------: | :---------: | :-----: |
 | [Mathematics for Machine Learning](https://mml-book.github.io/) | Book | - | Including PDF and some tutorials |
-| [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/) | Book and Course | MIT | - |
+| [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/) | Book & Course | MIT | - |
 | [Highlights of Calculus](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/index.htm) | Course | MIT | Only videos |
 | [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about) | Course | Stanford | - |
 | [The Matrix Book](https://drive.google.com/file/d/1MVdWudAUxbcc0bByyr79R9QpiLysnLk0/view?usp=sharing) | Book | - | Linear Algebra |
@@ -13,32 +13,30 @@ A collection of awsome Machine Learming resources such as online courses, books 
 | [Aida](https://www.pearson.com/en-ca/learner/products-and-services/learning-and-engagement-tools/aida.html) | App | Pearson| Calculus leanring | 
 
 ### Computer Science  
-Great Ideas in Theoretical Computer Science (CMU): http://www.cs.cmu.edu/~15251/  
-Notes: http://www.cs.cmu.edu/~aada/courses/15251s18/www/notes/notes_all_but_sols.pdf  
+| Name | Category | Orgnization | Comment |
+| :--: | :------: | :---------: | :-----: |
+| [Great Ideas in Theoretical Computer Science](http://www.cs.cmu.edu/~15251/) | Course | CMU | [Archived version](http://www.cs.cmu.edu/~aada/courses/15251f17/www/schedule.html), [Notes](http://www.cs.cmu.edu/~aada/courses/15251s18/www/notes/notes_all_but_sols.pdf) |
 
 ### Signal Processing
-Think DSP: https://greenteapress.com/wp/think-dsp/    
-Signal Processing 101 (Videos): https://www.youtube.com/playlist?list=PLJ-OcUCIty7evBmHvYRv66RcuziszpSFB    
+| Name | Category | Orgnization | Comment |
+| :--: | :------: | :---------: | :-----: |
+| [Think DSP](https://greenteapress.com/wp/think-dsp/) | Book | - | - |
+| [Signal Processing 101](https://www.youtube.com/playlist?list=PLJ-OcUCIty7evBmHvYRv66RcuziszpSFB) | Video | - | YouTube Videos |
 
 ### Statistical Learning:  
-Getting Started with Machine Learning: [Google Drive Downlaod Link](https://drive.google.com/file/d/1XcYbj0YJlVTHO1ZXyVqvaHbptrmiXic8/view?usp=sharing)  
-
-Machine Learning - Andrew Ng: https://www.coursera.org/learn/machine-learning     
-Notes: https://yoyoyohamapi.gitbooks.io/mit-ml/content/  
-
-Foundations of Machine Learning (Bloomberg): https://bloomberg.github.io/foml/#about  
-
-Introductory Applied Machine Learning (Edinburgh University):  
-Videos: https://www.youtube.com/user/victorlavrenko/playlists?flow=grid&shelf_id=10&view=50   
-Uni Videos: https://media.ed.ac.uk/channel/Introductory%2BApplied%2BMachine%2BLearning/52615121    
-Courseworks: [IAML 2017](https://github.com/JamesOwers/iaml2017)  and [IAML2019](https://github.com/traikodinev/IAML2019) and [IAML 2019 Labs](https://github.com/amosstorkey/iaml-labs)    
-
-Machine Learning and Pattern Recognition (Edinburgh University): https://www.inf.ed.ac.uk/teaching/courses/mlpr/2019/
-
-Google Machine Learning Crash Course: https://developers.google.com/machine-learning/crash-course    
+| Name | Category | Orgnization | Comment |
+| :--: | :------: | :---------: | :-----: |
+| [Getting Started with Machine Learning](https://drive.google.com/file/d/1XcYbj0YJlVTHO1ZXyVqvaHbptrmiXic8/view?usp=sharing) | Book | - | - |
+| [Machine Learning](https://www.coursera.org/learn/machine-learning) | Course | Cousera | Andrew Ng, [Notes](https://yoyoyohamapi.gitbooks.io/mit-ml/content/) |
+| [Foundations of Machine Learning](https://bloomberg.github.io/foml/#about) | Course | Bloomberg | - |
+| [Introductory Applied Machine Learning (IAML)](https://media.ed.ac.uk/channel/Introductory%2BApplied%2BMachine%2BLearning/52615121)| Course | Edinburgh University | [YouTube Videos](https://www.youtube.com/user/victorlavrenko/playlists?flow=grid&shelf_id=10&view=50), Courseworks: [2017](https://github.com/JamesOwers/iaml2017), [2019]((https://github.com/traikodinev/IAML2019) Labs: [2019](https://github.com/amosstorkey/iaml-labs) |
+| [Machine Learning and Pattern Recognition (MLPR)](https://www.inf.ed.ac.uk/teaching/courses/mlpr/2019/) | Course | Edinburgh University | - |
+| [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) | Course | Google | - |
 
 ### Algorithms  
-Understanding xgboost (Chinese)： https://blog.csdn.net/v_JULY_v/article/details/81410574  
+| Name | Category | Orgnization | Comment |
+| :--: | :------: | :---------: | :-----: |
+| [Understanding xgboost](https://blog.csdn.net/v_JULY_v/article/details/81410574) | Article | - | Chinese, 中文 |
 
 ### Neural Networks  
 AI Book: https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/    
