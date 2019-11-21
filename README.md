@@ -1,23 +1,16 @@
 # Machine Learning Resources  
-A collection of awsome Machine Learming resources such asnotes, blogs and online courses.  
+A collection of awsome Machine Learming resources such as online courses, books and blogs.    
 
 ### Mathematics:
-Mathematics for Machine Learning: https://mml-book.github.io/    
-
-Mathematics for Computer Science: https://courses.csail.mit.edu/6.042/spring18/    
-
-Highlights of Calculus:
-https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/index.htm
-
-Convex Optimization:
-https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about
-
-The Matrix Book:
-[Google Drive Download Link](https://drive.google.com/file/d/1MVdWudAUxbcc0bByyr79R9QpiLysnLk0/view?usp=sharing)
-
-AI算法工程师手册 (Chinese)：http://www.huaxiaozhuan.com/    
-
-Aida, Calculus Leanring APP: https://www.pearson.com/en-ca/learner/products-and-services/learning-and-engagement-tools/aida.html    
+| Name | Category | Orgnization | Comment |
+| :--: | :------: | :---------: | :-----: |
+| [Mathematics for Machine Learning](https://mml-book.github.io/) | Book | - | Including PDF and some tutorials |
+| [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/) | Book and Course | MIT | - |
+| [Highlights of Calculus](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/index.htm) | Course | MIT | Only videos |
+| [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about) | Course | Stanford | - |
+| [The Matrix Book](https://drive.google.com/file/d/1MVdWudAUxbcc0bByyr79R9QpiLysnLk0/view?usp=sharing) | Book | - | Linear Algebra |
+| [AI算法工程师手册](http://www.huaxiaozhuan.com/ ) | Book | - | Chinese 中文 |
+| [Aida](https://www.pearson.com/en-ca/learner/products-and-services/learning-and-engagement-tools/aida.html) | App | Pearson| Calculus leanring | 
 
 ### Computer Science  
 Great Ideas in Theoretical Computer Science (CMU): http://www.cs.cmu.edu/~15251/  
