@@ -1,10 +1,10 @@
 # Machine Learning Resources  
 A collection of awsome Machine Learming resources such as online courses, books and blogs.    
-To fetch the submodule:
-'''
+To fetch the submodule:  
+```
 git submodule init
 git submodule update
-'''
+```
 
 ### Mathematics:
 | Name | Category | Organization | Comment |
