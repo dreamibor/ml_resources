@@ -1,6 +1,6 @@
 # Machine Learning Resources  
 A collection of awsome Machine Learming resources such as online courses, books and blogs.    
-To fetch the submodule:  
+To fetch the submodule (Other people's collection on ML in Chinese):  
 ```
 git submodule init
 git submodule update
