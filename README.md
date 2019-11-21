@@ -28,7 +28,7 @@ A collection of awsome Machine Learming resources such as online courses, books 
 | [Getting Started with Machine Learning](https://drive.google.com/file/d/1XcYbj0YJlVTHO1ZXyVqvaHbptrmiXic8/view?usp=sharing) | Book | - | - |
 | [Machine Learning](https://www.coursera.org/learn/machine-learning) | Course | Cousera | Andrew Ng, [Notes](https://yoyoyohamapi.gitbooks.io/mit-ml/content/) |
 | [Foundations of Machine Learning](https://bloomberg.github.io/foml/#about) | Course | Bloomberg | - |
-| [Introductory Applied Machine Learning (IAML)](https://media.ed.ac.uk/channel/Introductory%2BApplied%2BMachine%2BLearning/52615121)| Course | Edinburgh University | [YouTube Videos](https://www.youtube.com/user/victorlavrenko/playlists?flow=grid&shelf_id=10&view=50), Courseworks: [2017](https://github.com/JamesOwers/iaml2017), [2019]((https://github.com/traikodinev/IAML2019) Labs: [2019](https://github.com/amosstorkey/iaml-labs) |
+| [Introductory Applied Machine Learning (IAML)](https://media.ed.ac.uk/channel/Introductory%2BApplied%2BMachine%2BLearning/52615121)| Course | Edinburgh University | [YouTube Videos](https://www.youtube.com/user/victorlavrenko/playlists?flow=grid&shelf_id=10&view=50), Courseworks: [2017](https://github.com/JamesOwers/iaml2017), [2019](https://github.com/traikodinev/IAML2019) Labs: [2019](https://github.com/amosstorkey/iaml-labs) |
 | [Machine Learning and Pattern Recognition (MLPR)](https://www.inf.ed.ac.uk/teaching/courses/mlpr/2019/) | Course | Edinburgh University | - |
 | [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) | Course | Google | - |
 
@@ -124,6 +124,6 @@ A collection of awsome Machine Learming resources such as online courses, books 
 ### General Books:
 | Name | Category | Organization | Comment |
 | :--: | :------: | :---------: | :-----: |
-| Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition) | Book | - | - |
+| Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow | Book | - | 2nd Edition |
 | [AI算法工程师手册](http://www.huaxiaozhuan.com/ ) | Book | - | Chinese, 中文 |
 | 《机器学习》| Book | 周志华 | Chinese, 中文， “西瓜书” | 
