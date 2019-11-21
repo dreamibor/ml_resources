@@ -32,7 +32,6 @@ A collection of awsome Machine Learming resources such as online courses, books 
 | [Introductory Applied Machine Learning (IAML)](https://media.ed.ac.uk/channel/Introductory%2BApplied%2BMachine%2BLearning/52615121)| Course | Edinburgh University | [YouTube Videos](https://www.youtube.com/user/victorlavrenko/playlists?flow=grid&shelf_id=10&view=50), Courseworks: [2017](https://github.com/JamesOwers/iaml2017), [2019]((https://github.com/traikodinev/IAML2019) Labs: [2019](https://github.com/amosstorkey/iaml-labs) |
 | [Machine Learning and Pattern Recognition (MLPR)](https://www.inf.ed.ac.uk/teaching/courses/mlpr/2019/) | Course | Edinburgh University | - |
 | [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) | Course | Google | - |
-| 《机器学习》| Book | 周志华 | - | 
 
 ### Neural Networks 
 | Name | Category | Orgnization | Comment |
@@ -127,3 +126,4 @@ A collection of awsome Machine Learming resources such as online courses, books 
 | Name | Category | Orgnization | Comment |
 | :--: | :------: | :---------: | :-----: |
 | Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition) | Book | - | - |
+| 《机器学习》| Book | 周志华 | Chinese, 中文， “西瓜书” | 
