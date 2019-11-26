@@ -127,6 +127,8 @@ git submodule update
 ### Paper Collection
 | Name | Category | Organization | Comment |
 | :--: | :------: | :---------: | :-----: |
+| [Google AI Blog](https://ai.googleblog.com/) | Blog | Google | Collection of Google AI research papers |
+| [DeepMind Research Blog](https://deepmind.com/research) | Blog | DeepMind | Collection of DeepMind research papers |
 | [SoTA papers in different fields](https://paperswithcode.com/sota) | Collection | - | - |
 
 ### General Books:
