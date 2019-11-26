@@ -12,7 +12,7 @@ git submodule update
 | [Mathematics for Machine Learning](https://mml-book.github.io/) | Book | - | Including PDF and some tutorials |
 | [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/) | Book & Course | MIT | - |
 | [Highlights of Calculus](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/index.htm) | Course | MIT | Only videos |
-| [Calculus - 微积分](https://www.youtube.com/user/CUSTCourses/playlists?view=50&sort=dd&shelf_id=18&view_as=subscriber) | Course | 中华科技大学 | Traditional Chinese(繁体中文) |
+| [Calculus - 微积分](https://www.youtube.com/user/CUSTCourses/playlists?view=50&sort=dd&shelf_id=18&view_as=subscriber) | Course | 中华科技大学 | Traditional Chinese, 繁体中文 |
 | [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about) | Course | Stanford | - |
 | [The Matrix Book](https://drive.google.com/file/d/1MVdWudAUxbcc0bByyr79R9QpiLysnLk0/view?usp=sharing) | Book | - | Linear Algebra |
 | [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) | Interactive E-book | - | Linear Algebra |
