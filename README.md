@@ -52,9 +52,12 @@ git submodule update
 ### Deep Learning:  
 | Name | Category | Organization | Comment |
 | :--: | :------: | :---------: | :-----: |
-| [Deep Learning](https://www.deeplearningbook.org/) | Book | - | - | 
-| [Applied Deep Learning](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html) | Course | National Taiwan University | - |
 | [CS230 Deeo Learning](http://cs230.stanford.edu/) | Course | Stanford | [Autumn 2018 Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) |
+| [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) | Course | DeepMind | - | 
+| [Applied Deep Learning](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html) | Course | National Taiwan University | - |
+| [Deep Learning](https://www.deeplearningbook.org/) | Book | - | *Classic* | 
+| [Deep Learning Illustrated](https://www.deeplearningillustrated.com/) | Book | - | - | 
+
 
 ### Computer Vision:
 | Name | Category | Organization | Comment |
