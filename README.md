@@ -142,4 +142,4 @@ git submodule update
 | [AI算法工程师手册](http://www.huaxiaozhuan.com/ ) | Book | - | Chinese, 中文 |
 | 《机器学习》| Book | 周志华 | Chinese, 中文， “西瓜书” | 
 | [浅谈人工智能](http://www.stat.ucla.edu/~sczhu/Blog_articles/%E6%B5%85%E8%B0%88%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.pdf)| Introduction | UCLA | Chinese,中文,朱松纯 | 
-
+| [Practical AI](https://practicalai.me/) | Course | - | Jupyter Notebooks | 
