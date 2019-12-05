@@ -56,7 +56,8 @@ git submodule update
 | [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) | Course | DeepMind | - | 
 | [Applied Deep Learning](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html) | Course | National Taiwan University | - |
 | [Deep Learning](https://www.deeplearningbook.org/) | Book | - | *Classic* | 
-| [Deep Learning Illustrated](https://www.deeplearningillustrated.com/) | Book | - | - | 
+| [Deep Learning Illustrated](https://www.deeplearningillustrated.com/) | Book | - | - |
+| [Grokking Deep Learning](https://github.com/iamtrask/Grokking-Deep-Learning) | Book | - | Code Provided | 
 
 
 ### Computer Vision:
