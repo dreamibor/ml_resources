@@ -52,7 +52,7 @@ git submodule update
 ### Deep Learning:  
 | Name | Category | Organization | Comment |
 | :--: | :------: | :---------: | :-----: |
-| [CS230 Deep Learning](http://cs230.stanford.edu/) | Course | Stanford | [Autumn 2018 Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) |
+| [CS230 Deep Learning](http://cs230.stanford.edu/) | Course | Stanford | [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb), [Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/) |
 | [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) | Course | DeepMind | - | 
 | [Applied Deep Learning](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html) | Course | National Taiwan University | - |
 | [Deep Learning](https://www.deeplearningbook.org/) | Book | - | *Classic* | 
