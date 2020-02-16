@@ -127,6 +127,9 @@ git submodule update
 | Name | Category | Organization | Comment |
 | :--: | :------: | :---------: | :-----: |
 | [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html) | Cheatsheet | - | - |   
+| [CS 230 - Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/) | Cheatsheet | - | - |   
+| [CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/) | Cheatsheet | - | - |   
+| [CS 221 ― Artificial Intelligence](https://stanford.edu/~shervine/teaching/cs-221/) | Cheatsheet | - | - |   
 
 ### Paper Collection
 | Name | Category | Organization | Comment |
