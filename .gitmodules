@@ -1,3 +1,6 @@
 [submodule "Machine-Learning"]
 	path = Machine-Learning
 	url = https://github.com/JustFollowUs/Machine-Learning
+[submodule "ML-Interview"]
+	path = ML-Interview
+	url = https://github.com/ms-sharma/ML-Interview.git
