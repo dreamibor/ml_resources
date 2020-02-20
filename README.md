@@ -14,7 +14,7 @@ git submodule update
 | [Discrete Structures CS2800](https://courses.cs.cornell.edu/cs2800/wiki/index.php/CS_2800_Spring_2020) | Course | Cornell | No videos |
 | [Mathematics for Computer Science](http://www.cs.cornell.edu/courses/cs2800/2017sp/handouts/mcs.pdf) | Book | Cornell | Textbook for CS2800 |
 | [Highlights of Calculus](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/index.htm) | Course | MIT | Only videos |
-| [Calculus - 微积分](https://www.youtube.com/user/CUSTCourses/playlists?view=50&sort=dd&shelf_id=18&view_as=subscriber) | Course | 中华科技大学 | Traditional Chinese, 繁体中文 |
+| [Calculus - 微积分](https://www.youtube.com/user/CUSTCourses/playlists?view=50&sort=dd&shelf_id=18&view_as=subscriber) | Course | 中华科技大学 | 繁体中文 |
 | [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about) | Course | Stanford | - |
 | [The Matrix Book](https://drive.google.com/file/d/1MVdWudAUxbcc0bByyr79R9QpiLysnLk0/view?usp=sharing) | Book | - | Linear Algebra |
 | [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) | Interactive E-book | - | Linear Algebra |
@@ -101,7 +101,7 @@ git submodule update
 ### SLAM    
 | Name | Category | Organization | Comment |
 | :--: | :------: | :---------: | :-----: |
-| [SLAM](https://github.com/gaoxiang12/slambook-en) | Book | - | [Chinese Version](https://github.com/gaoxiang12/slambook2) |
+| [SLAM](https://github.com/gaoxiang12/slambook-en) | Book | - | [中文版](https://github.com/gaoxiang12/slambook2) |
 
 ### Network Optimisation   
 | Name | Category | Organization | Comment |
@@ -145,7 +145,7 @@ git submodule update
 | Name | Category | Organization | Comment |
 | :--: | :------: | :---------: | :-----: |
 | Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow | Book | - | 2nd Edition |
-| [AI算法工程师手册](http://www.huaxiaozhuan.com/ ) | Book | - | Chinese, 中文 |
-| 《机器学习》| Book | 周志华 | Chinese, 中文， “西瓜书” | 
-| [浅谈人工智能](http://www.stat.ucla.edu/~sczhu/Blog_articles/%E6%B5%85%E8%B0%88%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.pdf)| Introduction | UCLA | Chinese,中文,朱松纯 | 
+| [AI算法工程师手册](http://www.huaxiaozhuan.com/ ) | Book | - | 中文 |
+| 《机器学习》| Book | 周志华 | 中文 | 
+| [浅谈人工智能](http://www.stat.ucla.edu/~sczhu/Blog_articles/%E6%B5%85%E8%B0%88%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.pdf)| Introduction | UCLA 朱松纯 | 中文 | 
 | [Practical AI](https://practicalai.me/) | Course | - | Jupyter Notebooks | 
