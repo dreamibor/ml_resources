@@ -19,7 +19,7 @@ git submodule update
 | [The Matrix Book](https://drive.google.com/file/d/1MVdWudAUxbcc0bByyr79R9QpiLysnLk0/view?usp=sharing) | Book | - | Linear Algebra |
 | [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) | Interactive E-book | - | Linear Algebra |
 | [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) | Interactive E-book | - | Linear Algebra, [PDF vserion](https://textbooks.math.gatech.edu/ila/ila.pdf) |
-| [Aida](https://www.pearson.com/en-ca/learner/products-and-services/learning-and-engagement-tools/aida.html) | App | Pearson| Calculus leanring | 
+| [Aida](https://www.pearson.com/us/learner/products-and-services/learning-and-engagement-tools/aida.html) | App | Pearson| Calculus leanring | 
 
 ### Computer Science  
 | Name | Category | Organization | Comment |
