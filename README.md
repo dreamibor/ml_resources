@@ -20,6 +20,7 @@ git submodule update
 | [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) | Interactive E-book | - | Linear Algebra |
 | [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) | Interactive E-book | - | Linear Algebra, [PDF vserion](https://textbooks.math.gatech.edu/ila/ila.pdf) |
 | [Aida](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/aida.html) | App | Pearson| Calculus leanring | 
+| [Brilliant](https://www.brilliant.org) | App | Brilliant| Math with practice | 
 
 ### Computer Science  
 | Name | Category | Organization | Comment |
