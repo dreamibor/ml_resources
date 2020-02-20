@@ -144,7 +144,8 @@ git submodule update
 ### General Books:
 | Name | Category | Organization | Comment |
 | :--: | :------: | :---------: | :-----: |
-| Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow | Book | - | 2nd Edition |
+| [Hands-on Machine Learning](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) | Book | - | 2nd Edition |
+| [TinyML](https://www.oreilly.com/library/view/tinyml/9781492052036/) | Book | - | |
 | [AI算法工程师手册](http://www.huaxiaozhuan.com/ ) | Book | - | 中文 |
 | 《机器学习》| Book | 周志华 | 中文 | 
 | [浅谈人工智能](http://www.stat.ucla.edu/~sczhu/Blog_articles/%E6%B5%85%E8%B0%88%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.pdf)| Introduction | UCLA 朱松纯 | 中文 | 
