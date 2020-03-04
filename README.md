@@ -150,3 +150,4 @@ git submodule update
 | 《机器学习》| Book | 周志华 | 中文 | 
 | [浅谈人工智能](http://www.stat.ucla.edu/~sczhu/Blog_articles/%E6%B5%85%E8%B0%88%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.pdf)| Introduction | UCLA 朱松纯 | 中文 | 
 | [Practical AI](https://practicalai.me/) | Course | - | Jupyter Notebooks | 
+| [中国科学院大学研一课程教材](https://github.com/lilujunai/UCAS-Course) | Slides | - | 中文 | 
