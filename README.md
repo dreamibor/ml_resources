@@ -126,8 +126,8 @@ git submodule update
 | :--: | :------: | :---------: | :-----: |
 | [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html) | Cheatsheet | - | - |   
 | [CS 230 - Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/) | Cheatsheet | - | - |   
-| [CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/) | Cheatsheet | - | - |   
-| [CS 221 ― Artificial Intelligence](https://stanford.edu/~shervine/teaching/cs-221/) | Cheatsheet | - | - |   
+| [CS 229 - Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/) | Cheatsheet | - | - |   
+| [CS 221 - Artificial Intelligence](https://stanford.edu/~shervine/teaching/cs-221/) | Cheatsheet | - | - |   
 
 ### Paper Collection
 | Name | Category | Organization | Comment |
@@ -151,14 +151,13 @@ git submodule update
 | Name | Category | Organization | Comment |  
 | :--: | :------: | :----------: | :-----: |  
 | [从头到尾彻底理解KMP](https://blog.csdn.net/v_JULY_v/article/details/7041827) | Article | - | 中文 |  
+| [区块链原理](https://www.julyedu.com/question/big/kp_id/29/ques_id/2110) | Article | - | 中文 |  
+| [目标检测原理](https://www.julyedu.com/question/big/kp_id/26/ques_id/2103) | Article | - | 中文 |  
 | [通俗理解kaggle比赛大杀器xgboost](https://blog.csdn.net/v_JULY_v/article/details/81410574) | Article | - | 中文 |  
 | [支持向量机通俗导论](https://blog.csdn.net/v_JULY_v/article/details/7624837) | Article | - | 中文 |  
 | [CNN 原理](https://www.julyedu.com/question/big/kp_id/26/ques_id/2084) | Article | - | 中文 |  
 | [RNN 原理](https://www.julyedu.com/question/big/kp_id/26/ques_id/1717) | Article | - | 中文 |  
 | [LSTM 原理](https://www.julyedu.com/question/big/kp_id/26/ques_id/1851) | Article | - | 中文 |  
-| [LSTM 原理](https://www.julyedu.com/question/big/kp_id/26/ques_id/1851) | Article | - | 中文 |  
-| [目标检测原理](https://www.julyedu.com/question/big/kp_id/26/ques_id/2103) | Article | - | 中文 |  
-| [区块链原理](https://www.julyedu.com/question/big/kp_id/29/ques_id/2110) | Article | - | 中文 |  
 | [如何通俗理解EM算法](https://blog.csdn.net/v_JULY_v/article/details/81708386) | Article | - | 中文 |  
 | [如何通俗理解word2vec](https://blog.csdn.net/v_JULY_v/article/details/102708459) | Article | - | 中文 |  
 | [Transformer](https://www.julyedu.com/question/big/kp_id/30/ques_id/2912) | Article | - | 中文 |  
