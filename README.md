@@ -42,7 +42,8 @@ git submodule update
 | [Introductory Applied Machine Learning (IAML)](https://media.ed.ac.uk/channel/Introductory%2BApplied%2BMachine%2BLearning/52615121)| Course | Edinburgh University | [YouTube Videos](https://www.youtube.com/user/victorlavrenko/playlists?flow=grid&shelf_id=10&view=50), Courseworks: [2017](https://github.com/JamesOwers/iaml2017), [2019](https://github.com/traikodinev/IAML2019) Labs: [2019](https://github.com/amosstorkey/iaml-labs) |
 | [Machine Learning and Pattern Recognition (MLPR)](https://www.inf.ed.ac.uk/teaching/courses/mlpr/2019/) | Course | Edinburgh University | - |
 | [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) | Course | Google | - |
-| [Applied Machine Learning](http://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) | Course | Columbia |  [GitHub Repo](https://github.com/amueller/COMS4995-s20) |
+| [Applied Machine Learning](http://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) | Course | Columbia |  [GitHub Repo](https://github.com/amueller/COMS4995-s20) |   
+
 ### Neural Networks 
 | Name | Category | Organization | Comment |
 | :--: | :------: | :---------: | :-----: |
@@ -61,7 +62,6 @@ git submodule update
 | [Deep Learning](https://www.deeplearningbook.org/) | Book | - | *Classic* | 
 | [Deep Learning Illustrated](https://www.deeplearningillustrated.com/) | Book | - | - |
 | [Grokking Deep Learning](https://github.com/iamtrask/Grokking-Deep-Learning) | Book | - | Code Provided | 
-
 
 ### Computer Vision:
 | Name | Category | Organization | Comment |
@@ -109,11 +109,6 @@ git submodule update
 | [Auto Keras](https://autokeras.com/) | Framework | - | AutoML |  
 | [PocketFlow](https://github.com/Tencent/PocketFlow) | Framework | Tencent | Quantization, clustering, etc. | 
 
-### Algorithms  
-| Name | Category | Organization | Comment |
-| :--: | :------: | :---------: | :-----: |
-| [Understanding xgboost](https://blog.csdn.net/v_JULY_v/article/details/81410574) | Article | - | Chinese, 中文 |
-
 ### Frameworks:    
 | Name | Category | Organization | Comment |
 | :--: | :------: | :---------: | :-----: |
@@ -151,3 +146,20 @@ git submodule update
 | [浅谈人工智能](http://www.stat.ucla.edu/~sczhu/Blog_articles/%E6%B5%85%E8%B0%88%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.pdf)| Introduction | UCLA 朱松纯 | 中文 | 
 | [Practical AI](https://practicalai.me/) | Course | - | Jupyter Notebooks | 
 | [中国科学院大学研一课程教材](https://github.com/lilujunai/UCAS-Course) | Slides | - | 中文 | 
+
+### Algorithms  
+| Name | Category | Organization | Comment |  
+| :--: | :------: | :----------: | :-----: |  
+| [从头到尾彻底理解KMP](https://blog.csdn.net/v_JULY_v/article/details/7041827) | Article | - | 中文 |  
+| [通俗理解kaggle比赛大杀器xgboost](https://blog.csdn.net/v_JULY_v/article/details/81410574) | Article | - | 中文 |  
+| [支持向量机通俗导论](https://blog.csdn.net/v_JULY_v/article/details/7624837) | Article | - | 中文 |  
+| [CNN 原理](https://www.julyedu.com/question/big/kp_id/26/ques_id/2084) | Article | - | 中文 |  
+| [RNN 原理](https://www.julyedu.com/question/big/kp_id/26/ques_id/1717) | Article | - | 中文 |  
+| [LSTM 原理](https://www.julyedu.com/question/big/kp_id/26/ques_id/1851) | Article | - | 中文 |  
+| [LSTM 原理](https://www.julyedu.com/question/big/kp_id/26/ques_id/1851) | Article | - | 中文 |  
+| [目标检测原理](https://www.julyedu.com/question/big/kp_id/26/ques_id/2103) | Article | - | 中文 |  
+| [区块链原理](https://www.julyedu.com/question/big/kp_id/29/ques_id/2110) | Article | - | 中文 |  
+| [如何通俗理解EM算法](https://blog.csdn.net/v_JULY_v/article/details/81708386) | Article | - | 中文 |  
+| [如何通俗理解word2vec](https://blog.csdn.net/v_JULY_v/article/details/102708459) | Article | - | 中文 |  
+| [Transformer](https://www.julyedu.com/question/big/kp_id/30/ques_id/2912) | Article | - | 中文 |  
+| [Bert](https://www.julyedu.com/question/big/kp_id/30/ques_id/3008) | Article | - | 中文 |  
