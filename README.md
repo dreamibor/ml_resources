@@ -150,6 +150,7 @@ git submodule update
 ### Algorithms  
 | Name | Category | Organization | Comment |  
 | :--: | :------: | :----------: | :-----: |  
+| [Deep-Reasoning-Papers](https://github.com/floodsung/Deep-Reasoning-Papers#deep-reasoning-papers) | Collection | - |  |
 | [从头到尾彻底理解KMP](https://blog.csdn.net/v_JULY_v/article/details/7041827) | Article | - | 中文 |  
 | [区块链原理](https://www.julyedu.com/question/big/kp_id/29/ques_id/2110) | Article | - | 中文 |  
 | [目标检测原理](https://www.julyedu.com/question/big/kp_id/26/ques_id/2103) | Article | - | 中文 |  
