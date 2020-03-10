@@ -153,7 +153,7 @@ git submodule update
 | [Deep-Reasoning-Papers](https://github.com/floodsung/Deep-Reasoning-Papers#deep-reasoning-papers) | Collection | - |  |
 | [从头到尾彻底理解KMP](https://blog.csdn.net/v_JULY_v/article/details/7041827) | Article | - | 中文 |  
 | [区块链原理](https://www.julyedu.com/question/big/kp_id/29/ques_id/2110) | Article | - | 中文 |  
-| [目标检测原理](https://www.julyedu.com/question/big/kp_id/26/ques_id/2103) | Article | - | 中文 |  
+| [目标检测原理](https://blog.csdn.net/v_july_v/article/details/80170182) | Article | - | 中文 |  
 | [通俗理解kaggle比赛大杀器xgboost](https://blog.csdn.net/v_JULY_v/article/details/81410574) | Article | - | 中文 |  
 | [支持向量机通俗导论](https://blog.csdn.net/v_JULY_v/article/details/7624837) | Article | - | 中文 |  
 | [CNN 原理](https://www.julyedu.com/question/big/kp_id/26/ques_id/2084) | Article | - | 中文 |  
