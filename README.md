@@ -120,6 +120,9 @@ git submodule update
 | :--: | :------: | :---------: | :-----: |
 | [pyecharts](https://github.com/pyecharts/pyecharts) | Python library | - | Python plot library |
 | [cutecharts](https://github.com/chenjiandongx/cutecharts) | Python library | - | Cute Python plot library |
+| [klib](https://github.com/akanz1/klib) | Python library | - |  Importing, cleaning, analyzing and preprocessing data. |
+| [Hub](https://github.com/activeloopai/Hub) | Python library | - | Managing ML datasets |
+| [cutecharts](https://github.com/chenjiandongx/cutecharts) | Python library | - | Cute Python plot library |
 
 ### Cheatsheet    
 | Name | Category | Organization | Comment |
@@ -163,3 +166,7 @@ git submodule update
 | [如何通俗理解word2vec](https://blog.csdn.net/v_JULY_v/article/details/102708459) | Article | - | 中文 |  
 | [Transformer](https://www.julyedu.com/question/big/kp_id/30/ques_id/2912) | Article | - | 中文 |  
 | [Bert](https://www.julyedu.com/question/big/kp_id/30/ques_id/3008) | Article | - | 中文 |  
+| [Model Source Code Explanation](https://github.com/nakaizura/Source-Code-Notebook) | GitHub | - | 中文 |  
+| [Maximizing BERT model performance](https://towardsdatascience.com/maximizing-bert-model-performance-539c762132ab) | Article | - | English |
+| [AI Surveys](https://github.com/KaiyuanGao/AI-Surveys) | GitHub | - | 中文 |
+
