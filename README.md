@@ -86,6 +86,7 @@ git submodule update
 | [Language Model](http://www.marekrei.com/teaching/mllm/) | Article | - | - |
 | [Pre-trained Languge Model Papers](https://github.com/thunlp/PLMpapers) | Collection | - | GitHub repository |
 | [NLP Interview Preparation](https://github.com/songyingxin/NLPer-Interview) | Collection | - | GitHub repository |
+| [NLP Books Recommendations](https://elvissaravia.substack.com/p/my-recommendations-for-getting-started) | Collection | - | Article |
 
 ### Natural Language Understanding   
 | Name | Category | Organization | Comment |
@@ -160,6 +161,7 @@ git submodule update
 | [通俗理解kaggle比赛大杀器xgboost](https://blog.csdn.net/v_JULY_v/article/details/81410574) | Article | - | 中文 |  
 | [支持向量机通俗导论](https://blog.csdn.net/v_JULY_v/article/details/7624837) | Article | - | 中文 |  
 | [CNN 原理](https://www.julyedu.com/question/big/kp_id/26/ques_id/2084) | Article | - | 中文 |  
+| [Intuitive Guide to Convolution](https://betterexplained.com/articles/intuitive-convolution/) | Article | - | English |
 | [RNN 原理](https://www.julyedu.com/question/big/kp_id/26/ques_id/1717) | Article | - | 中文 |  
 | [LSTM 原理](https://www.julyedu.com/question/big/kp_id/26/ques_id/1851) | Article | - | 中文 |  
 | [如何通俗理解EM算法](https://blog.csdn.net/v_JULY_v/article/details/81708386) | Article | - | 中文 |  
